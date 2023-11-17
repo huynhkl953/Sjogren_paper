@@ -5,7 +5,7 @@ library(dplyr)
 library(gplots)
 library(pheatmap)
 
-setwd("/Users/khoahuynh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Whole slide segmentation/Spatial_annotation/")
+setwd("")
 
 #--------------------------------------------------
 # Load the cell annotations
